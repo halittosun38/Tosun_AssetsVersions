@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Thanks For Download"}
+{"version":"1.0.1","news":"Ped Clothing Fixed"}
