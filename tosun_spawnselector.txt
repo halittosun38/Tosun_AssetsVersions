@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Ped Clothing Fixed"}
+{"version":"1.0.2","news":"Last Quit Time Last Location You Can Edit On Config"}
