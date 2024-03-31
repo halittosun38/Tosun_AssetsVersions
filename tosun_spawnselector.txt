@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Last Quit Time Last Location You Can Edit On Config"}
+{"version":"1.0.3","news":"steam profile picture added"}
