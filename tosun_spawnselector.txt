@@ -1,1 +1,1 @@
-{"version":"1.0.3","news":"steam profile picture added"}
+{"version":"1.0.4","news":"steam + discord profile picture added and change blackscreen time changed"}
