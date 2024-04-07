@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"color added blue , purple , yellow , green, red"}
+{"version":"1.0.1","news":"color added blue , purple , yellow , green, red Thanks For Purchase"}
