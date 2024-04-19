@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"Loading Screen Discord Profile Added"}
+{"version":"1.0.2","news":"Link Problem Fixed"}
