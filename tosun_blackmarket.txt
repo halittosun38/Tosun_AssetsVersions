@@ -1,1 +1,1 @@
-{"version":"1.0.1","Update":"New Update Fixed Rotation and some little bug"}
+{"version":"1.0.1","news":"New Update Fixed Rotation and some little bug"}
